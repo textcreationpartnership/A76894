@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy newes from Holland: being a true relation of the present proceedings of the Dutch-men against the English, at the Hague, Amsterdam, Rotterdam, Brill, Dort, Flushin, and divers other places. Also, a great fight at sea, between the Parliaments ships, and the Hollanders; the number burnt, sunk, and taken, by Captain Johnson and the rest of the English; with the manner of the said engagement. Likewise Lieu. Colonel John Lilburn made Captain of a man of War for the States of Holland, and his letter to the Lord General Cromwel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76894</idno>
+            <idno type="STC">Wing B3270</idno>
+            <idno type="STC">Thomason E656_16</idno>
+            <idno type="STC">ESTC R206625</idno>
+            <idno type="EEBO-CITATION">99865744</idno>
+            <idno type="PROQUEST">99865744</idno>
+            <idno type="VID">117995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117995)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy newes from Holland: being a true relation of the present proceedings of the Dutch-men against the English, at the Hague, Amsterdam, Rotterdam, Brill, Dort, Flushin, and divers other places. Also, a great fight at sea, between the Parliaments ships, and the Hollanders; the number burnt, sunk, and taken, by Captain Johnson and the rest of the English; with the manner of the said engagement. Likewise Lieu. Colonel John Lilburn made Captain of a man of War for the States of Holland, and his letter to the Lord General Cromwel.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Cotton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1651. March. 17"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Europe --  History --  1648-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117995:1" rendition="simple:additions"/>
+            <p>BLOUDY NEWES FROM HOLLAND: BEING A true Relation of the preſent Proceedings of the Dutch-men againſt the Engliſh, at the <hi>Hague, Amſterdam, Rotterdam, Brill, D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt, Fluſhin,</hi> and divers other places.</p>
+            <p>Alſo, a great Fight at Sea, between the Par<g ref="char:EOLhyphen"/>liaments ſhips, and the Hollanders; the number burnt, ſunk, and taken, by Captain <hi>Johnſon</hi> and the reſt of the Engliſh; with the manner of the ſaid Engagement.</p>
+            <p>Likewiſe Lieu. Colonel John Lilburn made Captain of a Man of War for the States of <hi>Holland,</hi> and his Letter to the Lord General <hi>Cromwel.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. Cotton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:117995:2"/>
+            <pb n="3" facs="tcp:117995:2"/>
+            <head>A Bloudy Fight at Sea, between the Par<g ref="char:EOLhyphen"/>liaments ſhips, under the Command of Captain Vice-Admiral Clerk, Captain Penington, and Captain Armſtrong; and the Hollanders, commanded by Vice-Admiral Frederick. With the particulars of the Fight, the manner of their Engagement; and the number of ſhips, men, and Ordnance, ſunk, killed and taken.</head>
+            <div type="letter">
+               <head>Sent in a Letter from <hi>Captain Owen,</hi> aboard the <hi>Dra<g ref="char:EOLhyphen"/>gon</hi> in the <hi>Downs, March 15, 1652.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ON the 12 of this inſtant March, we diſcovered a Fleet of ſhips coaſting along the Channel, whoſe pride and inſolen<g ref="char:EOLhyphen"/>cy, did much exaſperate the ſpirits of our
+<pb n="4" facs="tcp:117995:3"/>Officers and Souldiers, who making towards them, found them to be Hollanders; whereupon Captain Johnſon haled to them, demanding from whence they came, and where bound: the Dutch Captains anſwer'd, That they ſcorn'd to give an account to Engliſh-men. Then Captain Johnſon required them to ſtrike ſayl in obedience and honour to the States of England; but that ſeemed more deteſtable unto them; who ſaid, That although they never cut off a Kings Head, yet they were the ancienteſt States: Why then have at you, reply'd Capt. Johnſon, I'le have ſome of your heads before I leave you; and withall, gave them a broad ſide, &amp; immediatly tackt about and gave them another, which did great exe<g ref="char:EOLhyphen"/>cution both above and below Decks: The Hollan<g ref="char:EOLhyphen"/>der being exceedingly inraged thereat, gave him a gallant Volley of 7 broad ſides; but were anſwer'd treble by the reſt of the Engliſh ſhips; who by that time were come up cloſe to engage; inſomuch that a ſharp and bloudy fight began, which continued for the ſpace of 3 hours; being performed with great gallantry on both ſides: But at laſt Captain Stokes coming in, did ſo terrifie them with round ſhot, and Hand-Granadoes, that he ſoon fired one, ſunk ano<g ref="char:EOLhyphen"/>ther, and boarded a third; which the reſt of the Fle<g ref="char:EOLhyphen"/>mins perceiving, declined engagement, and with a
+<pb n="5" facs="tcp:117995:3"/>freſh Gale ſailed towards the Coaſt of France. We had them in chaſe for the ſpace of 5 hours, but night approaching, we were inforced to deſiſt. Theſe are ſaid to be New-Commiſſion Pyrats, ſet forth with Letters of Mart from the Scotch-King, and not by the Authority of the States of Holland. Their loſſe we conceive to be very great; for each ſhip that were ſunk, carryed 34 pieces of Ordnance, &amp; man'd with 80 men, ſtout knaves I'le aſſure you. In this conflict we loſt about 27 men; the Enemy neer up<g ref="char:EOLhyphen"/>on two hundred.</p>
+               <p>The Hollander hath ſet forth a Declaration to raiſe 60000 Horſe and Foot; and 300 Sayl of ſhips; but their deſign is variouſly ſpoken of.</p>
+               <p>Yet great are the Conteſts between the Burgo<g ref="char:EOLhyphen"/>maſters and the Bores; for the latter doth threaten to ſequeſter their Eſtates, and bring them to a Tryall for their lives, if they will not take a courſe to defend and aſſiſt them at Sea. And ſome Tumults and Ri<g ref="char:EOLhyphen"/>ſings have already been in Zealand, Rotterdam, Dort, Delf, and at the Hague, where many were both ſlain and wounded, and amongſt the reſt ſome Engliſh, which the Mutiniers chiefly aymed at, and brand them with the moſt infamous Badge of Tray<g ref="char:EOLhyphen"/>tors and Conſpirators to their Religion and Liber<g ref="char:EOLhyphen"/>ties; &amp;c.</p>
+               <closer>
+                  <dateline>From aboard the <hi>Dragon,</hi> 
+                     <date>
+                        <hi>March</hi> 15. 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:117995:4"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THere hath been a great and imperial Coun<g ref="char:EOLhyphen"/>cel held at Munſter in Germany, by the Am<g ref="char:EOLhyphen"/>baſſadors of 13 Chriſtian Kings, Princes, and Dukes; At which Diet, they took into conſidera<g ref="char:EOLhyphen"/>tion the preſent ſtate and condition of many exiled Princes; and amongſt the reſt, a Conference aroſe touching the King of Scots; but nothing dne therein (at preſent) by reaſon of other weighty and emergent buſineſſes, which call them to a Work of far greater concernment; and may alſo prove fatal, if not timely prevented: For the Great Turk, and his Baſhaw have taken the field with ſeven hundred thouſand Horſe and Foot, and are reſolved (if poſſi<g ref="char:EOLhyphen"/>ble) to make a great devaſtation and inroad upon Chriſtendom this Summer: But great is the care of the Emperour of Germany, the 7 Chriſtian Princes of Italy, the Queen of Sweden, the Prince of Tran<g ref="char:EOLhyphen"/>ſilvania, and Prince Frederick of Malta, to raiſe a formidable Power, and to unite and joyn with the Venetians, both in an offenſive and defenſive War againſt the Turks; And in purſuance thereof, a League is concluding between the aforeſaid Prin<g ref="char:EOLhyphen"/>ces; who have had a large conſultation thereupon; But that which is thought moſt requiſite and feaſi<g ref="char:EOLhyphen"/>ble at preſent, is, the ſending of a Summons to all Chriſtendom, for Warlike Proviſions to be made a<g ref="char:EOLhyphen"/>gainſt
+<pb n="7" facs="tcp:117995:4"/>the Enemies thereof; And indeed great rea<g ref="char:EOLhyphen"/>ſon have they ſo to do; for never was a more po<g ref="char:EOLhyphen"/>tent and irreſiſtable Army raiſed theſe many years, as now the Turks and Janiſaries have raiſed. Yet notwithſtanding, Prince Philip (the third Son to the Queen of Bohemia, and General to the Stases of Ve<g ref="char:EOLhyphen"/>nice) hath given them a great Overthrow neer the Iſle of Candia, and kill'd, taken, and routed about threeſcore thouſand men: This Overthrow doth exceedingly retard the Enemies Deſign; and as it is a great prejudice to them, ſo it is a great advantage to Chriſtendom; And his Highneſſe Prince Philip hath embraced this opportunity; who by the aſſiſt<g ref="char:EOLhyphen"/>ance of the Divine Power, hath obtained another great Victory againſt the Janiſaries: Since which Atchievements, he is called Philip the Great; a Gen<g ref="char:EOLhyphen"/>tleman of a gallant temper, and endow'd with ex<g ref="char:EOLhyphen"/>cellent Properties and Vertues, both for prudence, wiſdom, and magnanimity of Spirit: He is even be<g ref="char:EOLhyphen"/>come as great a Terrour to the Turks, as Alexander the Great was to the Chriſtians.</p>
+               <p>The King of Scots hath ſent the Lord Wilmot with a Meſſage to the Princes of Italy, imploring Supplies and Accommodation, ſuitable to his pre<g ref="char:EOLhyphen"/>ſent Neceſſities and Condition; but they have re<g ref="char:EOLhyphen"/>turned Anſwer, That by reaſon of the home-bred
+<pb n="8" facs="tcp:117995:5"/>diviſions, and forreign Preparations of the Enemy in ſeverall parts againſt the Chriſtian Territories; they could not anſwer his expectation at preſent, &amp;c.</p>
+               <p>The Duke of Malta hath declared, that he will give his Royal Aſſent to the Union, and that he will raiſe forty thouſand Horſe and Foot, to joyn with the Chriſtians againſt the Turks; and in purſuance thereof hath granted a Commiſſion to Prince Fre<g ref="char:EOLhyphen"/>derick, Landgrave of Heſſe, to command in chief un<g ref="char:EOLhyphen"/>der his Highneſs Prince Philips.</p>
+               <p>It is reported, that Lieu. Col. Lilburn is made captain of a Man of War for the States of Holland; and that he hath received Power and Inſtructions, to fire, ſink, or take, any ſhips whatſoever, that ſhall be declared Enemies to the United Provinces.</p>
+               <p>Some alſo relate, that he hath ſent a Letter to the Lord General, puting his Exceliency in mind of his Proteſtation at Huntington; wherein he deſires him to ſtand up againſt Oppreſſion; to propagate the Goſpel; to preſerve the liberty of the People, and to maintain the Laws of the Land in its purity with<g ref="char:EOLhyphen"/>out corruption or bribery.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
